@@ -1,0 +1,42 @@
+.gif
+{
+    max-width: 700px;
+    max-height: 200px;
+}
+
+.categoriaBtn
+{
+    background-color: #dbdbdb;
+}
+.verProductosBtn
+{
+    background-color: #dedede;
+    border: 1px solid black;
+    /* width: 14%; */
+    border-radius: 18px;
+    color: black;
+}
+
+.productosBody
+{
+    background-color: #dbdbdb;
+    justify-content: center;
+    margin-top: 5%;
+}
+.productoTitle
+{
+    margin-top: 3%;
+    background-color: white;
+    /* width: 80%;
+    border-radius: 11px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3); */
+    border: 1px solid #dedede;
+    width: 98%;
+    border-bottom: 1px solid black;
+}
+.producto
+{
+    background-color:white !important;
+    width: 85%;
+    border-radius: 11px;
+}

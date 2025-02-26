@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts/DancingScript-Regular.ttf') format('truetype');
+}
+.logoNav
+{
+    max-width:100px;
+    border-radius: 46px;
+}
+.nav 
+{
+    background-color: rgb(223 225 227) !important;
+}
+.eslogan
+{
+    background-color:white;
+    color: black;
+    font-family: 'Dancing Script';
+    font-size:xx-large;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.verMasBtn
+{
+    width: 78%;
+    height: auto;
+    background-color: #8e2c2f;
+    border-radius: 0px;
+}
+.verMas{
+    padding: 11%;
+    border: 1px solid grey;
+    border-radius: 4px;
+    padding-top: 18%;
+}
+.imgFeature
+{
+    max-width: 70px;
+    align-self: center;
+    margin-top: 7%;
+}
+.footer
+{
+    background-color: #412122;
+    color: white;
+    font-size: 100%;
+    font-family: 'Dancing Script';
+    margin-top: 4%;
+    padding-top: 3%;
+}
